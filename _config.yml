@@ -28,8 +28,8 @@ about:
       - name: Book
         url: https://github.com/kkninjae/book
         external: true
-  - paragraph: 此博客采用的主题是 ?link? 。
-    text_align: center
+  - paragraph: 此博客采用的主题是 ?link? 。(此句左对齐)
+    text_align: left
     links:
       - name: Book
         url: https://github.com/kkninjae/book
