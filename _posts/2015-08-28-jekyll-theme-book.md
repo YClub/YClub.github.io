@@ -3,7 +3,7 @@ layout: post
 title: A Jekyll Theme Named Book
 date: 2015-08-28
 tags: english
-category: blog
+category: 
 ---
 
 Simple is better, but many themes are over designed. So, [Book](https://github.com/kkninjae/book) is built.

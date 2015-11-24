@@ -3,7 +3,7 @@ layout: post
 title: Book Style
 date: 2015-08-28
 tags: english
-category: blog
+category: 
 ---
 
 Three Colors for Heading 2
