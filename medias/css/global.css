@@ -1,0 +1,149 @@
+body {
+	background-color:#00000;
+	height:100%;
+	margin:0px;
+	text-align:center;
+	width:100%;
+	color:#E2D9BA;
+}
+img{
+	border:0px;
+}
+.clear{
+	clear:both;
+	font-size:1px;
+	width:1px;
+	height:1px;
+}
+#container {
+	margin:0 auto;
+	text-align:left;
+	width:1000px;
+}
+/*header*/
+#header{
+	height:114px;
+	margin-top:0px;
+	width:1000px;
+}
+/*nav*/
+#nav {
+	position:absolute;
+	height:31px;
+	margin-top:0px;
+	width:1000px;
+	background-image:url(../images/nav_bg.gif);
+	background-repeat:no-repeat;
+	z-index:100;
+}
+#nav ul{
+	margin:7px 0px 0px 85px;
+	padding:0px;
+	list-style:none;
+	font-size:1px;
+}
+#nav li{
+	list-style:none;
+	float:left;
+	margin:0px;
+	height:12px;
+}
+.nav_spacer img{
+	padding-left:7px;
+	padding-right:7px;
+}
+#nav_separater{
+	height:26px;
+	width:1000px;
+	font-size:1px;
+}
+#nav_dropmenu1 {
+	background-image:url(../images/dropmenu_bg_1.gif);
+	background-position:left;
+	background-repeat:no-repeat;
+	display:none;
+	height:85px;
+	position:absolute;
+	z-index:99;
+	width:120px;
+	margin-left:-20px;
+	margin-top:18px;
+}
+#d1_item1 {
+	padding-left:18px;
+	padding-top:5px;
+}
+#d1_item2 {
+	padding-left:18px;
+	padding-top:1px;
+}
+#d1_item3 {
+	padding-left:18px;
+	padding-top:0;
+}
+#d1_item4 {
+	margin:0;
+	padding-left:18px;
+}
+#d1_item5 {
+	margin:0;
+	padding-left:18px;
+	padding-top:1px;
+}
+#nav_dropmenu2 {
+	background-image:url(../images/dropmenu_bg_2.gif);
+	background-position:left;
+	background-repeat:no-repeat;
+	display:none;
+	height:150px;
+	position:absolute;
+	z-index:100;
+	width:113px;
+	margin-left:-36px;
+	margin-top:18px;
+}
+#d2_item1 {
+	padding-left:18px;
+	padding-top:4px;
+}
+
+#d2_item2 {
+	padding-left:18px;
+	padding-top:0;
+}
+.standard_body_text{
+	color:#E2D9BA;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align:left;
+}
+.standard_body_text a{
+	color:#F0D780;
+	text-decoration:underline;
+}
+a.standard_link:hover, a.standard_link:active{
+	font-size:10px;
+	color:#F0D780;
+	text-decoration:none;
+}
+a.standard_link:link,a.standard_link:visited{
+	font-size:10px;
+	color:#E2D9BA;
+	text-decoration:underline;
+}
+a:hover {
+	font-size:12px;
+	color:#F0D780;
+	text-decoration:underline;
+
+}
+a:link {
+	font-size:12px;
+	color:#E2D9BA;
+	text-decoration:none;
+}
+a:visited {
+	font-size:12px;
+	color:#E2D9BA;
+	text-decoration:none;
+}

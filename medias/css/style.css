@@ -1,0 +1,76 @@
+body {
+	background-color: #000;
+  	height:100%;
+    width:100%;
+	margin:0px; 
+    line-height: 20px;
+    font-size: 14px;
+    text-align:center;
+    color:#E2D9BA;
+}
+#wrap {
+	width: 1000px;
+	margin: 0 auto;
+}
+#nav {
+	height: 33px;
+	background: url(../img/nav_bg.gif) top no-repeat;
+	margin-top: -19px;
+}
+#nav a {
+	text-decoration: none;
+	line-height: 25px;
+	text-align: center;
+	color: #E2D9BA;
+}
+.con_flash {
+	width:"903";
+	height:"286";
+	background: url(../img/bg.jpg) center no-repeat;
+}
+#content p {
+	margin: 0;
+	padding: 0;
+}
+#content .con p {
+	width: 365px;
+	border: 1px solid #7E7612;
+	padding: 5px;
+	margin: 0 auto;
+	text-align: left;
+}
+.pic {
+	clear: both;
+	height: 14px;
+	background: url(../img/con_line.gif) center no-repeat;
+}
+#footer{
+	margin-top: -17px;
+	background: url(../img/footer_bg.jpg) center no-repeat;
+}
+#footer p {
+	position: relative;
+	left: 700px;
+	top: 10px;
+	width: 170px;
+	border: 1px solid #7E7612;
+	padding: 5px;
+	text-align: left;
+}
+#garden {
+	width: 845px;
+	margin: 0 auto;
+}
+.garden_text {
+	width: 380px;
+	margin-right: 28px;
+	text-align: left;
+	float: left;
+}
+.garden_flash {
+	float: right;
+}
+.answer {
+	margin-left: 100px;
+	text-align: left;
+}
